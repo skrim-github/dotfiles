@@ -1,0 +1,72 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=brave desktop
+desktops=c40d502b-c7d8-4790-8e04-477801020bd1
+desktopsrule=3
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=brave
+wmclassmatch=2
+
+[1ba9beb2-a5ac-4175-941d-b5b988c95cd4]
+Description=spotify desktop
+desktops=f5b92641-a5f2-4c37-955f-0c3b01c12dc0
+desktopsrule=3
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=spotify
+wmclassmatch=2
+
+[2]
+Description=discord desktop
+desktops=5993fcd8-aa5f-42a5-ab75-7ac798d17714
+desktopsrule=3
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=discord
+wmclassmatch=2
+
+[3]
+Description=spotify desktop
+desktops=f5b92641-a5f2-4c37-955f-0c3b01c12dc0
+desktopsrule=3
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=spotify
+wmclassmatch=2
+
+[5ab4c55d-9cfe-47f7-bc65-c6c87aebfa03]
+Description=brave desktop
+desktops=c40d502b-c7d8-4790-8e04-477801020bd1
+desktopsrule=3
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=brave
+wmclassmatch=2
+
+[General]
+count=3
+rules=1,2,3
+
+[d4cad758-4969-4a5c-821a-d128595df6d2]
+Description=discord desktop
+desktops=5993fcd8-aa5f-42a5-ab75-7ac798d17714
+desktopsrule=3
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
+wmclass=discord
+wmclassmatch=2
